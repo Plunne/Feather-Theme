@@ -1,0 +1,31 @@
+#+TITLE: Feather Theme
+#+AUTHOR: Lena SAVY
+
+Modern themes optimized for programming.
+
+
+* Styles
+
+Available in Dark and Light.
+
+- [X] Dark scheme
+- [X] Light scheme
+
+
+* TABLE OF CONTENT :toc:
+- [[#styles][Styles]]
+- [[#applications][APPLICATIONS]]
+
+* APPLICATIONS
+
+List of all available applications.
+
+- [[https://github.com/Plunne/Feather-Theme/tree/awesome][AwesomeWM]] : An awesome window manager for Xorg.
+- [[https://github.com/Plunne/Feather-Theme/tree/discord][Discord]] : Based on Spectra's themes generator for BetterDiscord.
+- [[https://github.com/Plunne/Feather-Theme/tree/emacs][EMACS]] : Based on doom-themes from *@hlissner*.
+- [[https://github.com/Plunne/Feather-Theme/tree/nvim][NeoVim]] : TUI Editor written in Lua.
+- [[https://github.com/Plunne/Feather-Theme/tree/p10k][PowerLevel10k]] : Powerfull Shell prompt.
+- [[https://github.com/Plunne/Feather-Theme/tree/rofi][Rofi]] : Applications launcher.
+- [[https://github.com/Plunne/Feather-Theme/tree/spotify][Spotify]] : Music platform, theme based on *Dribbblish*.
+- [[https://github.com/Plunne/Feather-Theme/tree/web][Web]] : For some navigators plugins.
+- [[https://github.com/Plunne/Feather-Theme/tree/zathura][Zathura]] : Lightweight documents viewer.
