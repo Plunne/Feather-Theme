@@ -3,7 +3,7 @@
 ;; Date: July 30, 2022
 ;; Author: Lena SAVY-LARIGALDIE <https://github.com/Plunne> mainly on Gitlab
 ;; Original: Henrik Lissner <https://github.com/hlissner>
-;; Source: https://github.com/Plunne/doom-feather-themes
+;; Source: https://github.com/Plunne/Feather-Theme
 ;;
 ;;; Code:
 
